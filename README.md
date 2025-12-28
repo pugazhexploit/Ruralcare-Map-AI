@@ -1,4 +1,4 @@
-#RuralCare-Map-AI
+ RuralCare-Map-AI
 
 An AI-Powered Geospatial Initiative for Rural Health Equity
 
@@ -161,9 +161,11 @@ Government health system integration
 9. GitHub Installation Guide
 
 Step 1: Clone the Repository
-
+ 
+```
 git clone https://github.com/your-username/ruralcare-map-ai.git
 cd ruralcare-map-ai
+```
 
 Step 2: Backend Setup (Python)
 
@@ -182,14 +184,19 @@ Backend runs at: http://localhost:8000
 
 Step 1: Install Dependencies
 
+```
 cd frontend
 npm install
+```
 
 Step 2: Run React App
 
+```
 npm start
 
 Frontend runs at: http://localhost:3000
+
+```
 
 
 ---
