@@ -9,7 +9,7 @@ An AI-Powered Geospatial Initiative for Rural Health Equity
 
 1. Project Overview
 
-RuralCare-Map-AI is an AI-driven geospatial healthcare platform designed to address the healthcare access gap in rural areas. The system uses machine learning, GIS data, and interactive maps to identify vulnerable regions, predict potential outbreaks, and optimize healthcare resource allocation.
+RuralCare-Map-AI is an AI-driven   geospatial healthcare platform designed to address the healthcare access gap in rural areas. The system uses machine learning, GIS data, and interactive maps to identify vulnerable regions, predict potential outbreaks, and optimize healthcare resource allocation.
 
 This project focuses on proactive healthcare, not reactive. Instead of waiting for emergencies, it predicts risks early and supports decision-makers with real-time insights.
 
