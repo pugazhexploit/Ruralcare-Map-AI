@@ -1,8 +1,8 @@
- RuralCare-Map-AI
+## RuralCare-Map-AI
 
 An AI-Powered Geospatial Initiative for Rural Health Equity
 
-Author: Pugazhenthi
+Author: Pugazhenthi  
 
 
 ---
