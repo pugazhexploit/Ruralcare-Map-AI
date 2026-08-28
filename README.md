@@ -1,4 +1,4 @@
-  ## RuralCare-Map-AI
+## RuralCare-Map-AI
 
 An AI-Powered Geospatial Initiative for Rural Health Equity
 
@@ -164,6 +164,8 @@ Step 1: Clone the Repository
  
 ```
 git clone https://github.com/your-username/ruralcare-map-ai.git
+```
+```
 cd ruralcare-map-ai
 ```
 
