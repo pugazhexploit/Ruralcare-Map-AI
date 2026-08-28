@@ -1,4 +1,4 @@
-## RuralCare-Map-AI
+  ## RuralCare-Map-AI
 
 An AI-Powered Geospatial Initiative for Rural Health Equity
 
@@ -193,7 +193,8 @@ Step 2: Run React App
 
 ```
 npm start
-
+```
+```
 Frontend runs at: http://localhost:3000
 
 ```
