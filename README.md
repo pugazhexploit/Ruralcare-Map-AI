@@ -3,11 +3,11 @@
 An AI-Powered Geospatial Initiative for Rural Health Equity
 
 ## Author: Pugazhenthi  
-
+      
     
 ---
 
-1. Project Overview
+  1. Project Overview
 
 RuralCare-Map-AI is an AI-driven   geospatial healthcare platform designed to address the healthcare access gap in rural areas. The system uses machine learning, GIS data, and interactive maps to identify vulnerable regions, predict potential outbreaks, and optimize healthcare resource allocation.
 
