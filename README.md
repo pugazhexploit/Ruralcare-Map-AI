@@ -14,7 +14,20 @@ This project focuses on proactive healthcare, not reactive. Instead of waiting f
 Live Demo: https://ruralcare-map-ai.netlify.app
 
 
+
 ---
+2. Problem Statement
+
+Rural populations face multiple healthcare challenges:
+
+People travel nearly 3x more distance for basic healthcare than urban residents
+
+Delayed response due to outdated and static health data
+
+Poor allocation of mobile clinics and emergency resources
+
+
+Current systems lack real-time intelligence, which leads to preventable health crises.
 
 
 
