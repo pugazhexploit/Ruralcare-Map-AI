@@ -3,9 +3,6 @@
 An AI-Powered Geospatial Initiative for Rural Health Equity
 
 ## Author: Pugazhenthi  
-      
-    
----
 
   1. Project Overview
 
