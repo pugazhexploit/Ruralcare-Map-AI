@@ -63,24 +63,6 @@ Actionable data for NGOs, health workers, and policymakers
 
 ---
 
-4. Methodology & Workflow
-
-1. Data Collection
-GIS datasets, census records, healthcare capacity data
-
-
-2. Preprocessing
-Cleaning missing values, coordinate mapping, normalization
-
-
-3. Model Training
-Random Forest & ML models trained on historical health data
-
-
-4. Visualization
-Risk scores rendered on an interactive web map
-
-
 
 
 ---
