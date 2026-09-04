@@ -2,18 +2,21 @@
 
 ### An AI-Powered Geospatial Platform for Rural Health Equity
 
+
 <p align="center">
+
   <strong>Predict Healthcare Risks • Visualize Rural Vulnerability • Optimize Health Resources</strong>
 </p>
 
 <p align="center">
-  <a href="https://ruralcare-map-ai.netlify.app">🚀 Live Demo</a>
+  <a href="https://ruralcare-map-ai.netlify.app">   • 🚀 Live Demo</a>
+
+  
+  <a href="#-installation">• Installation</a>
+
+  <a href="#-features">• Features</a>
   •
-  <a href="#-installation">Installation</a>
-  •
-  <a href="#-features">Features</a>
-  •
-  <a href="#-roadmap">Roadmap</a>
+  <a href="#-roadmap">  • Roadmap</a>
 </p>
 
 ---
