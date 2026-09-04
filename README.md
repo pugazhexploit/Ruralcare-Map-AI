@@ -9,14 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://ruralcare-map-ai.netlify.app">   • 🚀 Live Demo</a>
-
-  
-  <a href="#-installation">• Installation</a>
-
-  <a href="#-features">• Features</a>
-  •
-  <a href="#-roadmap">  • Roadmap</a>
+  <a href="https://ruralcare-map-ai.netlify.app">🚀 Live Demo</a>
+     •
+  <a href="#-installation">Installation</a>
+      •
+  <a href="#-features">Features</a>
+       •
+  <a href="#-roadmap"> Roadmap</a>
 </p>
 
 ---
