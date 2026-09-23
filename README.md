@@ -1,3 +1,7 @@
+# 🌾 RuralCare-Map-AI
+
+### An AI-Powered Geospatial Platform for Rural Health Equity
+
 
 <p align="center">
 
